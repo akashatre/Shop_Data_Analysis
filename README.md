@@ -25,26 +25,23 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akashatre/Shop_Data_Analysis.git
+   git clone https://github.com/akashatre/Shop_Data_Analysis.git 
 
 2.Navigate to the project directory:
-  ```bash
-   cd Shop_Data_Analysis
-
+  ' ```bash
+ 
+   	cd Shop_Data_Analysis 
 3.Install the required libraries:
 
-   ```bash
 	pip install -r requirements.txt
 
 4.Open and run the Jupyter Notebook:
 
-	```bash
-
-	jupyter notebook
-
+  
+   	 jupyter notebook
 
 
-##Conclusion
+## Conclusion
 This project demonstrates the power of Python's data analysis libraries to gain valuable insights from sales data. The insights derived from the analysis can be used to optimize shop performance, predict future sales, and improve customer satisfaction.
 
 
