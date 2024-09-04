@@ -1,7 +1,7 @@
 # Shop_Data_Analysis
 This project provides a comprehensive analysis of shop sales data using Python and popular data analysis libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
-This project provides a comprehensive analysis of shop sales data using Python and popular data analysis libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+
 
 ## Overview
 
@@ -25,4 +25,26 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shop-sales-analysis.git
+   git clone https://github.com/akashatre/Shop_Data_Analysis.git
+
+2.Navigate to the project directory:
+  ```bash
+   cd Shop_Data_Analysis
+
+3.Install the required libraries:
+
+   ```bash
+	pip install -r requirements.txt
+
+4.Open and run the Jupyter Notebook:
+
+	```bash
+
+	jupyter notebook
+
+
+
+##Conclusion
+This project demonstrates the power of Python's data analysis libraries to gain valuable insights from sales data. The insights derived from the analysis can be used to optimize shop performance, predict future sales, and improve customer satisfaction.
+
+
